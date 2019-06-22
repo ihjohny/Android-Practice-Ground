@@ -1,0 +1,23 @@
+{
+  "address": {
+    "city": "berline",
+    "country": "Germany"
+  },
+  "age": 30,
+  "mFamily": [
+    {
+      "age": 30,
+      "role": "Wife"
+    },
+    {
+      "age": 18,
+      "role": "Daughter"
+    },
+    {
+      "age": 35,
+      "role": "Husband"
+    }
+  ],
+  "firstName": "John",
+  "mail": "john@gmail.com"
+}
