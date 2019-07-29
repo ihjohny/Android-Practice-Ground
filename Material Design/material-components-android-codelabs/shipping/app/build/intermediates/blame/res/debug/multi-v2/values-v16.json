@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/undefined/Downloads/Material_Components/material-components-android-codelabs/kotlin/shipping/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/undefined/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/07617aa196ca7473bf7358d37824e2c1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/undefined/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/3926672fcf0af736b645eb2008e00a6b/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

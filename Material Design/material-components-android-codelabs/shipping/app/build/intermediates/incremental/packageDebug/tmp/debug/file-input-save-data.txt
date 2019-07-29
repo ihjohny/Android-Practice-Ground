@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jul 28 18:51:13 BDT 2019
+0.baseType=DIRECTORY
+0.base=/home/undefined/Downloads/Material_Components/material-components-android-codelabs/kotlin/shipping/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
